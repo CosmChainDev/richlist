@@ -1,0 +1,702 @@
+[
+  {
+    "address": "gitopia1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3trwck5",
+    "balance": {
+      "denom": "ulore",
+      "amount": "120222671647075"
+    }
+  },
+  {
+    "address": "gitopia1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3trwck5",
+    "balance": {
+      "denom": "ulore",
+      "amount": "120222671174958"
+    }
+  },
+  {
+    "address": "gitopia1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3trwck5",
+    "balance": {
+      "denom": "ulore",
+      "amount": "120222662863125"
+    }
+  },
+  {
+    "address": "gitopia1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3trwck5",
+    "balance": {
+      "denom": "ulore",
+      "amount": "120222662863125"
+    }
+  },
+  {
+    "address": "gitopia1hcq6ejnxmsxaqpee7vh7mqjysgw2kp8sf4g4xm",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17505m7wwzh28sf6dud2a8rd8qztlp4xvz5nqca",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17urengx7kxrsche82cfxu3qutxnng97k04vy9a",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia1hcq6ejnxmsxaqpee7vh7mqjysgw2kp8sf4g4xm",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17505m7wwzh28sf6dud2a8rd8qztlp4xvz5nqca",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17urengx7kxrsche82cfxu3qutxnng97k04vy9a",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia1hcq6ejnxmsxaqpee7vh7mqjysgw2kp8sf4g4xm",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17505m7wwzh28sf6dud2a8rd8qztlp4xvz5nqca",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17urengx7kxrsche82cfxu3qutxnng97k04vy9a",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia1hcq6ejnxmsxaqpee7vh7mqjysgw2kp8sf4g4xm",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17505m7wwzh28sf6dud2a8rd8qztlp4xvz5nqca",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia17urengx7kxrsche82cfxu3qutxnng97k04vy9a",
+    "balance": {
+      "denom": "ulore",
+      "amount": "50000000000000"
+    }
+  },
+  {
+    "address": "gitopia1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8e8rtxu",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49754142032222"
+    }
+  },
+  {
+    "address": "gitopia1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8e8rtxu",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49754135732270"
+    }
+  },
+  {
+    "address": "gitopia1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8e8rtxu",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49754134772468"
+    }
+  },
+  {
+    "address": "gitopia1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8e8rtxu",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49754129928647"
+    }
+  },
+  {
+    "address": "gitopia1mqltrqxy9p96lnehksxqgr0ma062zmklcqh2mj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49419643289400"
+    }
+  },
+  {
+    "address": "gitopia1mqltrqxy9p96lnehksxqgr0ma062zmklcqh2mj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49419643289400"
+    }
+  },
+  {
+    "address": "gitopia1mqltrqxy9p96lnehksxqgr0ma062zmklcqh2mj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49419643289400"
+    }
+  },
+  {
+    "address": "gitopia1mqltrqxy9p96lnehksxqgr0ma062zmklcqh2mj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "49419643289400"
+    }
+  },
+  {
+    "address": "gitopia12lehgzv7w7k8x0vwu9nsu9fvj9e80evhsu3jpf",
+    "balance": {
+      "denom": "ulore",
+      "amount": "44386404998590"
+    }
+  },
+  {
+    "address": "gitopia12lehgzv7w7k8x0vwu9nsu9fvj9e80evhsu3jpf",
+    "balance": {
+      "denom": "ulore",
+      "amount": "44386404998590"
+    }
+  },
+  {
+    "address": "gitopia12lehgzv7w7k8x0vwu9nsu9fvj9e80evhsu3jpf",
+    "balance": {
+      "denom": "ulore",
+      "amount": "44386404998590"
+    }
+  },
+  {
+    "address": "gitopia12lehgzv7w7k8x0vwu9nsu9fvj9e80evhsu3jpf",
+    "balance": {
+      "denom": "ulore",
+      "amount": "44386404998590"
+    }
+  },
+  {
+    "address": "gitopia1jt78ze9c89lq43vkv2msf4vue3am07dfr9nglj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "43907937670430"
+    }
+  },
+  {
+    "address": "gitopia1jt78ze9c89lq43vkv2msf4vue3am07dfr9nglj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "43907937670430"
+    }
+  },
+  {
+    "address": "gitopia1jt78ze9c89lq43vkv2msf4vue3am07dfr9nglj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "43907937670430"
+    }
+  },
+  {
+    "address": "gitopia1jt78ze9c89lq43vkv2msf4vue3am07dfr9nglj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "43907937670430"
+    }
+  },
+  {
+    "address": "gitopia1e29j95xmsw3zmvtrk4st8e89z5n72v7nqg96ej",
+    "balance": {
+      "denom": "ulore",
+      "amount": "37337070867029"
+    }
+  },
+  {
+    "address": "gitopia1e29j95xmsw3zmvtrk4st8e89z5n72v7nqg96ej",
+    "balance": {
+      "denom": "ulore",
+      "amount": "37337065708257"
+    }
+  },
+  {
+    "address": "gitopia1e29j95xmsw3zmvtrk4st8e89z5n72v7nqg96ej",
+    "balance": {
+      "denom": "ulore",
+      "amount": "37337060549485"
+    }
+  },
+  {
+    "address": "gitopia1e29j95xmsw3zmvtrk4st8e89z5n72v7nqg96ej",
+    "balance": {
+      "denom": "ulore",
+      "amount": "37337056680406"
+    }
+  },
+  {
+    "address": "gitopia10p40449l43f6ju5vm20f0p75733jtf42ehkj4w",
+    "balance": {
+      "denom": "ulore",
+      "amount": "36224881568841"
+    }
+  },
+  {
+    "address": "gitopia10p40449l43f6ju5vm20f0p75733jtf42ehkj4w",
+    "balance": {
+      "denom": "ulore",
+      "amount": "36224878805213"
+    }
+  },
+  {
+    "address": "gitopia10p40449l43f6ju5vm20f0p75733jtf42ehkj4w",
+    "balance": {
+      "denom": "ulore",
+      "amount": "36224876041585"
+    }
+  },
+  {
+    "address": "gitopia10p40449l43f6ju5vm20f0p75733jtf42ehkj4w",
+    "balance": {
+      "denom": "ulore",
+      "amount": "36224873968864"
+    }
+  },
+  {
+    "address": "gitopia1kx6kaa9tl4eskaset6r2h6dryjt36087me39nj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "18999997999861"
+    }
+  },
+  {
+    "address": "gitopia1kx6kaa9tl4eskaset6r2h6dryjt36087me39nj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "18999997999861"
+    }
+  },
+  {
+    "address": "gitopia1kx6kaa9tl4eskaset6r2h6dryjt36087me39nj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "18999997999861"
+    }
+  },
+  {
+    "address": "gitopia1kx6kaa9tl4eskaset6r2h6dryjt36087me39nj",
+    "balance": {
+      "denom": "ulore",
+      "amount": "18999997999861"
+    }
+  },
+  {
+    "address": "gitopia12zu648n89ve3dg2qul7h28h8fkt6cqp4wt3l4z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "14285714290000"
+    }
+  },
+  {
+    "address": "gitopia12zu648n89ve3dg2qul7h28h8fkt6cqp4wt3l4z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "14285714290000"
+    }
+  },
+  {
+    "address": "gitopia12zu648n89ve3dg2qul7h28h8fkt6cqp4wt3l4z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "14285714290000"
+    }
+  },
+  {
+    "address": "gitopia12zu648n89ve3dg2qul7h28h8fkt6cqp4wt3l4z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "14285714290000"
+    }
+  },
+  {
+    "address": "gitopia1a53udazy8ayufvy0s434pfwjcedzqv34g59jyd",
+    "balance": {
+      "denom": "ulore",
+      "amount": "12155464071266"
+    }
+  },
+  {
+    "address": "gitopia1a53udazy8ayufvy0s434pfwjcedzqv34g59jyd",
+    "balance": {
+      "denom": "ulore",
+      "amount": "12155464071266"
+    }
+  },
+  {
+    "address": "gitopia1a53udazy8ayufvy0s434pfwjcedzqv34g59jyd",
+    "balance": {
+      "denom": "ulore",
+      "amount": "12155464071266"
+    }
+  },
+  {
+    "address": "gitopia1a53udazy8ayufvy0s434pfwjcedzqv34g59jyd",
+    "balance": {
+      "denom": "ulore",
+      "amount": "12155464071266"
+    }
+  },
+  {
+    "address": "gitopia16220ensvezzc0ppsn8v9mkq94mh3kzdx85u5nr",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10171971778225"
+    }
+  },
+  {
+    "address": "gitopia16220ensvezzc0ppsn8v9mkq94mh3kzdx85u5nr",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10171969014597"
+    }
+  },
+  {
+    "address": "gitopia16220ensvezzc0ppsn8v9mkq94mh3kzdx85u5nr",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10171966250969"
+    }
+  },
+  {
+    "address": "gitopia16220ensvezzc0ppsn8v9mkq94mh3kzdx85u5nr",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10171964178248"
+    }
+  },
+  {
+    "address": "gitopia1v43v8rhvk545fanfunpvn89anlf0zd9p7zwt34",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10000000000000"
+    }
+  },
+  {
+    "address": "gitopia1v43v8rhvk545fanfunpvn89anlf0zd9p7zwt34",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10000000000000"
+    }
+  },
+  {
+    "address": "gitopia1v43v8rhvk545fanfunpvn89anlf0zd9p7zwt34",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10000000000000"
+    }
+  },
+  {
+    "address": "gitopia1v43v8rhvk545fanfunpvn89anlf0zd9p7zwt34",
+    "balance": {
+      "denom": "ulore",
+      "amount": "10000000000000"
+    }
+  },
+  {
+    "address": "gitopia1ryv3840cdfjhknqrjkvuhyn6h4zylwvq9ekdv9",
+    "balance": {
+      "denom": "ulore",
+      "amount": "9102328291278"
+    }
+  },
+  {
+    "address": "gitopia1ryv3840cdfjhknqrjkvuhyn6h4zylwvq9ekdv9",
+    "balance": {
+      "denom": "ulore",
+      "amount": "9102328291278"
+    }
+  },
+  {
+    "address": "gitopia1ryv3840cdfjhknqrjkvuhyn6h4zylwvq9ekdv9",
+    "balance": {
+      "denom": "ulore",
+      "amount": "9102328291278"
+    }
+  },
+  {
+    "address": "gitopia1ryv3840cdfjhknqrjkvuhyn6h4zylwvq9ekdv9",
+    "balance": {
+      "denom": "ulore",
+      "amount": "9102328291278"
+    }
+  },
+  {
+    "address": "gitopia1tygms3xhhs3yv487phx3dw4a95jn7t7llrjfqq",
+    "balance": {
+      "denom": "ulore",
+      "amount": "5964970737999"
+    }
+  },
+  {
+    "address": "gitopia1tygms3xhhs3yv487phx3dw4a95jn7t7llrjfqq",
+    "balance": {
+      "denom": "ulore",
+      "amount": "5964970737999"
+    }
+  },
+  {
+    "address": "gitopia1tygms3xhhs3yv487phx3dw4a95jn7t7llrjfqq",
+    "balance": {
+      "denom": "ulore",
+      "amount": "5964970737999"
+    }
+  },
+  {
+    "address": "gitopia1tygms3xhhs3yv487phx3dw4a95jn7t7llrjfqq",
+    "balance": {
+      "denom": "ulore",
+      "amount": "5964970737999"
+    }
+  },
+  {
+    "address": "gitopia1afdldsteedpknjpu7pvglnj3c9yrqm45thzxja",
+    "balance": {
+      "denom": "ulore",
+      "amount": "4614695088757"
+    }
+  },
+  {
+    "address": "gitopia1afdldsteedpknjpu7pvglnj3c9yrqm45thzxja",
+    "balance": {
+      "denom": "ulore",
+      "amount": "4614695088757"
+    }
+  },
+  {
+    "address": "gitopia1afdldsteedpknjpu7pvglnj3c9yrqm45thzxja",
+    "balance": {
+      "denom": "ulore",
+      "amount": "4614695088757"
+    }
+  },
+  {
+    "address": "gitopia1afdldsteedpknjpu7pvglnj3c9yrqm45thzxja",
+    "balance": {
+      "denom": "ulore",
+      "amount": "4614695088757"
+    }
+  },
+  {
+    "address": "gitopia1l8d76cnr6z5f02unp3hqayccqg789d9u0knxce",
+    "balance": {
+      "denom": "ulore",
+      "amount": "3544159827905"
+    }
+  },
+  {
+    "address": "gitopia1l8d76cnr6z5f02unp3hqayccqg789d9u0knxce",
+    "balance": {
+      "denom": "ulore",
+      "amount": "3544159827905"
+    }
+  },
+  {
+    "address": "gitopia1l8d76cnr6z5f02unp3hqayccqg789d9u0knxce",
+    "balance": {
+      "denom": "ulore",
+      "amount": "3544159827905"
+    }
+  },
+  {
+    "address": "gitopia1l8d76cnr6z5f02unp3hqayccqg789d9u0knxce",
+    "balance": {
+      "denom": "ulore",
+      "amount": "3544159827905"
+    }
+  },
+  {
+    "address": "gitopia14t0ta8vvv2nrcx86g87z888s7pqat4svuyw7ae",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000001014902"
+    }
+  },
+  {
+    "address": "gitopia14t0ta8vvv2nrcx86g87z888s7pqat4svuyw7ae",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000001014902"
+    }
+  },
+  {
+    "address": "gitopia14t0ta8vvv2nrcx86g87z888s7pqat4svuyw7ae",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000001014902"
+    }
+  },
+  {
+    "address": "gitopia14t0ta8vvv2nrcx86g87z888s7pqat4svuyw7ae",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000001014902"
+    }
+  },
+  {
+    "address": "gitopia1nglv4e0rvcrgamveem59uh08cu5e3wrc32g48z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000000000000"
+    }
+  },
+  {
+    "address": "gitopia1nglv4e0rvcrgamveem59uh08cu5e3wrc32g48z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000000000000"
+    }
+  },
+  {
+    "address": "gitopia1nglv4e0rvcrgamveem59uh08cu5e3wrc32g48z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000000000000"
+    }
+  },
+  {
+    "address": "gitopia1nglv4e0rvcrgamveem59uh08cu5e3wrc32g48z",
+    "balance": {
+      "denom": "ulore",
+      "amount": "2000000000000"
+    }
+  },
+  {
+    "address": "gitopia1s4vvmz0tgnuulpucckcnjjc0p6t5tpkzy6azyk",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1890000000091"
+    }
+  },
+  {
+    "address": "gitopia1s4vvmz0tgnuulpucckcnjjc0p6t5tpkzy6azyk",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1890000000091"
+    }
+  },
+  {
+    "address": "gitopia1s4vvmz0tgnuulpucckcnjjc0p6t5tpkzy6azyk",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1890000000091"
+    }
+  },
+  {
+    "address": "gitopia1s4vvmz0tgnuulpucckcnjjc0p6t5tpkzy6azyk",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1890000000091"
+    }
+  },
+  {
+    "address": "gitopia1maf9p22j6d8nd9ume9gj3ettprr6ajcszp0yfe",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1874999999800"
+    }
+  },
+  {
+    "address": "gitopia1maf9p22j6d8nd9ume9gj3ettprr6ajcszp0yfe",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1874999999800"
+    }
+  },
+  {
+    "address": "gitopia1maf9p22j6d8nd9ume9gj3ettprr6ajcszp0yfe",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1874999999800"
+    }
+  },
+  {
+    "address": "gitopia1maf9p22j6d8nd9ume9gj3ettprr6ajcszp0yfe",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1874999999800"
+    }
+  },
+  {
+    "address": "gitopia1sk4hlknpef5fahlzkywqfmht8nmae336zrumld",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1700000000000"
+    }
+  },
+  {
+    "address": "gitopia1sk4hlknpef5fahlzkywqfmht8nmae336zrumld",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1700000000000"
+    }
+  },
+  {
+    "address": "gitopia1sk4hlknpef5fahlzkywqfmht8nmae336zrumld",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1700000000000"
+    }
+  },
+  {
+    "address": "gitopia1sk4hlknpef5fahlzkywqfmht8nmae336zrumld",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1700000000000"
+    }
+  },
+  {
+    "address": "gitopia1t3gmt0xgrnrfgcpymraxgfw6x2dp8jnrsdyz58",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1400000000000"
+    }
+  },
+  {
+    "address": "gitopia1t3gmt0xgrnrfgcpymraxgfw6x2dp8jnrsdyz58",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1400000000000"
+    }
+  },
+  {
+    "address": "gitopia1t3gmt0xgrnrfgcpymraxgfw6x2dp8jnrsdyz58",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1400000000000"
+    }
+  },
+  {
+    "address": "gitopia1t3gmt0xgrnrfgcpymraxgfw6x2dp8jnrsdyz58",
+    "balance": {
+      "denom": "ulore",
+      "amount": "1400000000000"
+    }
+  }
+]
