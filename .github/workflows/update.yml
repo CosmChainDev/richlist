@@ -47,6 +47,6 @@ jobs:
         run: |-
           git diff
           git config --global user.email "contact.chaindev@gmail.com"
-          git config --global user.name "chaindev"
+          git config --global user.name "CosmChainDev"
           git diff --quiet || (git add data/* && git commit -m "Update richlist")
           git push origin main
