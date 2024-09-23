@@ -1,1 +1,1 @@
-# richlist
+# cosmos-richlist 
